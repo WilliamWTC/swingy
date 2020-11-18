@@ -11,3 +11,9 @@ $> java -jar target/swingy-1.0.jar console / gui (Choose either console or gui)
 Both console and gui views running.
 
 <img src="https://github.com/WilliamWTC/swingy/blob/main/img/Screenshot%202020-11-18%20at%2014.03.06.png" width="100%" title="preview" alt="preview">
+
+## Help & referances
+
+-- [Volodymyr Chornyi](https://github.com/MrBlackk)
+
+-- [Java GUI tut](https://www.youtube.com/watch?v=5o3fMLPY7qY&t=629s)
